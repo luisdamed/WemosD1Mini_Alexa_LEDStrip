@@ -1,5 +1,13 @@
-/* Credits: Aruna Tennakoon (https://github.com/kakopappa)
+
+
+/* Luis Medina
+Control of an LED strip using ESP8266 and a logic-level MOSFET
+Instructions will be made available on https://wwww.makerluis.com
+
+Credits to original code: Aruna Tennakoon (https://github.com/kakopappa)
 Source: https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch */
+
+
 
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
