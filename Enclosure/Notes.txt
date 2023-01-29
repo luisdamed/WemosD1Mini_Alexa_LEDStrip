@@ -1,0 +1,2 @@
+Use at your own risk. This enclosure is not a clean design, I made this quickly to enclose the components, not to look pretty or offer a clean solution.
+I might add the parametric version in a future commit.
