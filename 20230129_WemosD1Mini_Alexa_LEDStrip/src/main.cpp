@@ -21,7 +21,7 @@ boolean connectWifi();
 
 //on/off callbacks
 bool LEDon();
-//bool LEDoff(const int, unsigned long);
+bool LEDoff();
 
 // Change this before you flash
 const char* ssid = "yourSSID";
