@@ -16,5 +16,8 @@ Parts you need:
 **Optional**: 
 Resistor (any value between 1k and 100k). Used in case your LED remains ON after you have switched the power off. This is due to the residual capacitance of the MOSFET which is some cases is high enough to keep the LED on.
 
-Schematic diagram:
-![Schematic diagram of LED Strip connected to ESP8266 with MOSFET control and toggle switch](Schematic_ESP8266_LED_Strip_MOSFET.JPG?raw=true "Schematic ESP8266 LED Strip MOSFET")
+Schematic diagram for 3-pin SPST rocker switch with indicator LED:
+![Schematic diagram of LED Strip connected to ESP8266 with MOSFET control and a 3-pin SPST rocker switch with indicator LED](Schematic_ESP8266_LED_Strip_MOSFET_3pinSPSTRockerSwitch.JPG?raw=true "Schematic ESP8266 LED Strip MOSFET, 3-pin SPST rocker switch with indicator LED")
+
+Schematic diagram for 2-pin SPST rocker switch:
+![Schematic diagram of LED Strip connected to ESP8266 with MOSFET control and a 2-pin SPST rocker switch](Schematic_ESP8266_LED_Strip_MOSFET_2PinSwitch.JPG?raw=true "Schematic ESP8266 LED Strip MOSFET, 2-pin SPST rocker switch")
