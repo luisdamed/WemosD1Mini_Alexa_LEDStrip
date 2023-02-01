@@ -58,7 +58,7 @@ void setup()
 
     // Define your switches here. Max 10
     // Format: Alexa invocation name, local port no, on callback, off callback
-    LED = new Switch("LED cuarto", 82, LEDon, LEDoff);
+    LED = new Switch("LED strip", 82, LEDon, LEDoff);
 
     Serial.println("Adding switches upnp broadcast responder");
     upnpBroadcastResponder.addDevice(*LED);
