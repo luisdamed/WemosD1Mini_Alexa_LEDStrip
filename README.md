@@ -6,7 +6,7 @@ This project supports turning on/off an LED strip through Alexa Voice commands u
 
 Parts you need:
 
-- WeMos D1-mini ($4.00). [You can buy if from Aliexpress](http://www.aliexpress.com/store/product/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/1331105_32529101036.html)
+- WeMos D1-mini ($4.00). [You can buy it from Aliexpress](http://www.aliexpress.com/store/product/D1-mini-Mini-NodeMcu-4M-bytes-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/1331105_32529101036.html)
 
 - Logic-level MOSFET. Recommended: RFP30N06LE, 80N06L
 - Toggle switch
