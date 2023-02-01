@@ -1,6 +1,12 @@
 # Implementation of Alexa Voice Control for an LED strip using ESP8266 (Wemos D1 mini)
 
-### Forked from [original repository by Aruna Tennakoon](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch)
+**Forked from [original repository by Aruna Tennakoon](https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch)**
+
+--- 
+
+### Read my full [blog post about this project](https://www.makerluis.com/diy-led-strip-voice-control-with-alexa-and-esp8266/)
+
+---
 
 This project supports turning on/off an LED strip through Alexa Voice commands using 1 ESP-8266 board.
 
